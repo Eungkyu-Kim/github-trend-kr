@@ -3,7 +3,8 @@
 - 페이지 링크: https://github.com/FreeCodeCamp/freecodecamp
 
 
-<img src="https://s3.amazonaws.com/freecodecamp/wide-social-banner.png">
+<img src="https://s3.amazonaws.com/freecodecamp/wide-social-banner.png" style="
+    width: 800px;">
 
 [![Throughput Graph](https://graphs.waffle.io/freecodecamp/freecodecamp/throughput.svg)](https://waffle.io/freecodecamp/freecodecamp/metrics)
 
