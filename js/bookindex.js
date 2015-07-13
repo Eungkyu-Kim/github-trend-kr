@@ -473,5 +473,32 @@ var menus = [
   ,{"name":"017-23-ProductTour.md"}
   ,{"name":"017-24-bottomsheet.md"}
   ,{"name":"017-25-material-theme.md"}
+]},{"volume":{"name":"201507-1","path":"018_201507-weekly"}, "articles":[
+   {"name":"README.md"}
+  ,{"name":"018-01-the-art-of-command-line.md"}
+  ,{"name":"018-02-javascript-in-one-pic.md"}
+  ,{"name":"018-03-nuclide.md"}
+  ,{"name":"018-04-platform.md"}
+  ,{"name":"018-05-atom.md"}
+  ,{"name":"018-06-rewind.md"}
+  ,{"name":"018-07-runc.md"}
+  ,{"name":"018-09-reactjs_koans.md"}
+  ,{"name":"018-08-freecodecamp.md"}
+  ,{"name":"018-10-purifycss.md"}
+  ,{"name":"018-11-datasharing.md"}
+  ,{"name":"018-12-tota11y.md"}
+  ,{"name":"018-13-design.md"}
+  ,{"name":"018-14-4.md"}
+  ,{"name":"018-15-firefox-debloat.md"}
+  ,{"name":"018-16-engineering-blogs.md"}
+  ,{"name":"018-17-electron.md"}
+  ,{"name":"018-18-PHP7-Reference.md"}
+  ,{"name":"018-19-Tropos.md"}
+  ,{"name":"018-20-grequests.md"}
+  ,{"name":"018-21-android-percent-support-lib-sample.md"}
+  ,{"name":"018-22-awesome.md"}
+  ,{"name":"018-23-MBE.md"}
+  ,{"name":"018-24-codeface.md"}
+  ,{"name":"018-25-cleanthesis.md"}
 ]}
 ];
