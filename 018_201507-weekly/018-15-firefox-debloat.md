@@ -8,7 +8,7 @@
 
 우선 파이어폭스 주소 창에 아래 처럼 입력하면
 about:config
-![이미지](../img/018-15-01.png)
+![이미지](http://teamsego.github.io/github-trend-kr/img/018-15-01.png)
 
 뭑가 설정들이 주르륵 나오네요. 신기신기
 여기서 설정을 false 바꾸면됩니다.
