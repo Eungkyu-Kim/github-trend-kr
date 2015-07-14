@@ -1,5 +1,5 @@
 # engineering-blogs
- - 페이지 링크: https://github.com/kilimchoi/engineering-blog  
+ - 페이지 링크: https://github.com/kilimchoi/engineering-blogs  
 
 여러 회사와 contributors의 블로그를 한눈에 확인할 수 있는 engineering-blogs입니다.
 engineering-blogs는 어떤 유용한 로직을 제공해준다기 보다는 유명 회사페이지, 블로그등의 최신 글들을
